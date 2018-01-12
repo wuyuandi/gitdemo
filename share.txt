@@ -1,0 +1,5 @@
+public static void main(){
+//this is a  xxxxxxxx
+init();
+int xx;
+}
