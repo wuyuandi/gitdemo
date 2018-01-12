@@ -4,6 +4,6 @@ init();
 int x=0;
 double d=0.2;
 <<<<<<< HEAD
-f(1,2,z);
+f(1,2,100);
 finalize();
 }
