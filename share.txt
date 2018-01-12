@@ -1,5 +1,8 @@
 public static void main(){
 //this is a  xxxxxxxx
 init();
-int xx;
+int x=0;
+double d=0.2;
+f(x,y,z);
+finalize();
 }
